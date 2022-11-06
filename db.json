@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Sigit Saputra",
+      "alamat": "Cirebon",
+      "id": 1
+    },
+    {
+      "name": "Viona Rahmawati",
+      "alamat": "Cirebon Timur",
+      "id": 2
+    },
+    {
+      "name": "Sofi Nurul",
+      "alamat": "Cirebon",
+      "id": 3
+    },
+    {
+      "name": "Syaeful Annas",
+      "alamat": "Cirebon",
+      "id": 4
+    },
+    {
+      "name": "Sebastian",
+      "alamat": "Tegal",
+      "id": 5
+    }
+  ]
+}
